@@ -1,0 +1,12 @@
+[
+  {
+    "id_producto": "P001",
+    "nombre": "Hamburguesa Clasica",
+    "precio": 5.50
+  },
+  {
+    "id_producto": "P002",
+    "nombre": "Gaseosa 500ml",
+    "precio": 1.50
+  }
+]

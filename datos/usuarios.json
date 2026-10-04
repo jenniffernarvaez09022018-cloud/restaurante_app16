@@ -1,0 +1,30 @@
+[
+    {
+        "id_usuario": "U001",
+        "nombre": "Administrador Principal",
+        "usuario": "admin",
+        "contrasena": "1234",
+        "rol": "Administrador"
+    },
+    {
+        "id_usuario": "U002",
+        "nombre": "Carlos Perez",
+        "usuario": "cperez",
+        "contrasena": "1234",
+        "rol": "Empleado"
+    },
+    {
+        "id_usuario": "U003",
+        "nombre": "Ana Gomez",
+        "usuario": "agomez",
+        "contrasena": "1234",
+        "rol": "Cliente"
+    },
+    {
+        "id_usuario": "1754305199",
+        "nombre": "alex",
+        "usuario": "alex",
+        "contrasena": "1234",
+        "rol": "Administrador"
+    }
+]
